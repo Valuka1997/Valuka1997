@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valuka1997
 - 👀 I’m interested in cyber security and system administration
-- 🌱 I’m currently learning pen testing
+- 🌱 I’m currently learning pentesting
 - 📫 How to reach me ...???
 
 <!---
