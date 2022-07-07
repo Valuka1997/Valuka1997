@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Valuka1997
-- 👀 I’m interested in cyber security and system administration
+- 👀 I’m interested in DevOps, Automation and Web Development
 - 🌱 I’m currently learning pentesting
 - 📫 How to reach me ...???
 
